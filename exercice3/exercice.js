@@ -1,0 +1,3 @@
+$("p").dialog({
+    "text": "yellow"
+});
