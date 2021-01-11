@@ -1,3 +1,3 @@
-$("p").dialog({
-    "text": "yellow"
+$("#btn").click(function(){
+    alert("Text: " + $("p").text("yellow"));
 });
